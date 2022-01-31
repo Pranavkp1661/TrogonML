@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/TrogonML/app/src/main/res/layout/activity_home_page.xml" value="0.2359375" />
         <entry key="..\:/TrogonML/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/TrogonML/app/src/main/res/layout/categorie_item_layout.xml" value="0.25" />
+        <entry key="..\:/TrogonML/app/src/main/res/layout/top_course_item_layout.xml" value="0.25" />
       </map>
     </option>
   </component>
